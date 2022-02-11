@@ -1,5 +1,6 @@
 language: android
 dist: trusty
+run: yes | sdkmanager --licenses && yes | sdkmanager --update
 android:
   components:
     # Uncomment the lines below if you want to
