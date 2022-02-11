@@ -1,5 +1,4 @@
 language: java
 
-
-before_script: cd MpChartLib
-before_install: cd MpChartLib
+before_script: cd MPChartLib
+before_install: cd MPChartLib
