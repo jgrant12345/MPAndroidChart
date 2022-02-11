@@ -29,7 +29,7 @@
 repositories {
     maven { url 'https://jitpack.io' }
 }
-check more!!!!
+check more!!!!!
 dependencies {
     implementation 'com.github.PhilJay:MPAndroidChart:v3.1.0'
 }
